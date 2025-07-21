@@ -70,6 +70,4 @@ It includes structured tables, summary calculations, pivot tables, and a clean d
 
 ---
 
-## 💬 Questions?
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or leave a comment on the repo!
