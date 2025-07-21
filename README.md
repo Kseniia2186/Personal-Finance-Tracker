@@ -57,7 +57,7 @@ It includes structured tables, summary calculations, pivot tables, and a clean d
 
 ![Finance Dashboard](personal-finance-dashboard.png)
 
-🔗 [Open Google Sheets Project](https://docs.google.com/spreadsheets/d/1R82V0kMJCjS_ERFgqP1_PWRP3no9dexn2kezRonw3l/edit?usp=sharing)
+🔗 [Open Google Sheets Project](https://docs.google.com/spreadsheets/d/1R82V0kMJCjS_ERFgqP1_PWRP3no9dexn2kezRonw3l/editgid=1471058655#gid=1471058655
 
 ---
 
